@@ -1,0 +1,390 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"bord",
+				"border-right\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"bac",
+				"background-position\tproperty"
+			],
+			[
+				"top",
+				"top-box-a"
+			],
+			[
+				"grid",
+				"grid-area\tproperty"
+			],
+			[
+				"box-s",
+				"box-shadow\tproperty"
+			],
+			[
+				"fs",
+				"font-size\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"MAX",
+				"max-width\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"flex-",
+				"flex-start\talign-items"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"igno",
+				"Git: Update Project Ignored Files"
+			],
+			[
+				"gi",
+				"Git: Update Project Ignored Files"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"forma",
+				"Formatter: Beautify With HTML Tidy"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"git comm",
+				"Set Syntax: Git Commit"
+			],
+			[
+				"markdownediting lis",
+				"MarkdownEditing: Fold Level 1 Sections"
+			],
+			[
+				"js",
+				"Format: Javascript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			],
+			[
+				"form",
+				"Snippet: for (…) {…} (Improved Native For-Loop)"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 193.0,
+		"history":
+		[
+			"dsv"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mikhails/fed-projects/generative-art"
+	],
+	"file_history":
+	[
+		"/Users/mikhails/fed-projects/codewars-year-challenge/5.js",
+		"/Users/mikhails/fed-projects/codewars-year-challenge/14.js",
+		"/Users/mikhails/fed-projects/codewars-year-challenge/3.js",
+		"/Users/mikhails/fed-projects/codewars-year-challenge/2.js",
+		"/Users/mikhails/fed-projects/codewars-year-challenge/1.js",
+		"/Users/mikhails/fed-projects/fcc-technical-documentation/styles.css",
+		"/Users/mikhails/fed-projects/fcc-technical-documentation/index.html",
+		"/Users/mikhails/fed-projects/fcc-product-landing-page/styles.css",
+		"/Users/mikhails/fed-projects/fcc-product-landing-page/README.md",
+		"/Users/mikhails/fed-projects/fcc-product-landing-page/index.html",
+		"/Users/mikhails/fed-projects/fcc-product-landing-page/.gitignore",
+		"/Users/mikhails/fed-projects/fcc-product-landing-page/assets/music.svg",
+		"/Users/mikhails/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/mikhails/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/mikhails/Library/Application Support/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/Users/mikhails/fcc-form/styles.css",
+		"/Users/mikhails/fcc-form/index.html",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/What is scale? Do we need it?",
+		"/Users/mikhails/Каналы ютуба",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/Outreach ProfServices/For DanK meeting",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/Outreach ProfServices/asaf talk",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/Outreach ProfServices/for Ayelet Weekly meeting",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/Outreach ProfServices/For outreach team lead sync",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/Outreach ProfServices/Интерн собес",
+		"/Users/mikhails/wix-on-wix-docs/guides/guides.json",
+		"/Users/mikhails/Documents/WixCode Tough Stuff/text.html property.md",
+		"/Users/mikhails/Documents/WixCode Tough Stuff/Managing event listeners.md",
+		"/Users/mikhails/Documents/WixCode Tough Stuff/Dynamic pre-loader using custom code.md",
+		"/Users/mikhails/Documents/WixCode Tough Stuff/Creating an event sign up system on Corvid.md",
+		"/Users/mikhails/Documents/WixCode Tough Stuff/Button which can change it's size based on number of symbols.md",
+		"/HARPP",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/untitled",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/Интерн собес",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/Main list of issues",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/12:00 - 13:30 - 1 часть - знакомство с корвид",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/Weird questions from forum",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/Lesson 1 - $w",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/Lesson 2 - Corvid and API",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/Lesson 3 - Collections and Dynamic pages",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/video center",
+		"/Users/mikhails/Downloads/cat-159653_640.png",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/outreach team - offsite event",
+		"/вопросы: 0-5",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/music",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/alon k - service roulette",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/Domain Helper Project",
+		"/Users/mikhails/Wix Code Sites team projects",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/WixCode SEO check",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/wixcode crash course",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/Wix Contact Page",
+		"/Users/mikhails/Wix Code Sites team;2D",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/WixCode Support - templates and questions",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/Wix Contact Form Project",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/examples",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/sites list",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/wix qa guild site",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/wixPhotoAlbums.txt",
+		"/Users/mikhails/Documents/SublimeWorkDocuments/Grid Check - WixPlatform"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\") should return false.",
+			"telephoneCheck(\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 150.0
+	},
+	"pinned_build_system": "",
+	"project": "generative-art.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
